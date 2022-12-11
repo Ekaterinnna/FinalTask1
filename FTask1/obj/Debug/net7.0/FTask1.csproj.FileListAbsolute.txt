@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\bin\Debug\net7.0\FTask1.exe
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\bin\Debug\net7.0\FTask1.deps.json
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\bin\Debug\net7.0\FTask1.runtimeconfig.json
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\bin\Debug\net7.0\FTask1.dll
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\bin\Debug\net7.0\FTask1.pdb
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\obj\Debug\net7.0\FTask1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\obj\Debug\net7.0\FTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\obj\Debug\net7.0\FTask1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\obj\Debug\net7.0\FTask1.AssemblyInfo.cs
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\obj\Debug\net7.0\FTask1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\obj\Debug\net7.0\FTask1.dll
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\obj\Debug\net7.0\refint\FTask1.dll
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\obj\Debug\net7.0\FTask1.pdb
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\obj\Debug\net7.0\FTask1.genruntimeconfig.cache
+C:\Users\admin\Desktop\GeekBrains\FinalTask1\FTask1\obj\Debug\net7.0\ref\FTask1.dll
