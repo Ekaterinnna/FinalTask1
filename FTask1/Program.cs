@@ -14,7 +14,7 @@ string[] FillArrayConsole(string[] arr)
 {
     for(int i = 0; i < arr.Length; i++)
     {
-        arr[i] = Console.ReadLine();;
+        arr[i] = Console.ReadLine();
     }
     return arr;
 }
