@@ -10,11 +10,11 @@ string[] CreateArray(int count)
     return new string[count];
 }
 
-string[] FullArrayConsole(string[] arr)
+string[] FillArrayConsole(string[] arr)
 {
     for(int i = 0; i < arr.Length; i++)
     {
-        arr[i] = Console.ReadLine();
+        arr[i] = Console.ReadLine();;
     }
     return arr;
 }
@@ -27,7 +27,7 @@ int FindCount(string[] array)
     return c;
 }
 
-void FullArrayFromArray (string[] arr, string[] newarr)
+void FillArrayFromArray (string[] arr, string[] newarr)
 {
     int j = 0;
     for (int i = 0; i < arr.Length; i++)
@@ -56,9 +56,9 @@ string PrintGood(string[] array)
 
 int n = GetNumber("Введите значение длины первой строки n = ");
 string[] firstarray = CreateArray(n);
-Console.WriteLine("Введите строки первого массива:");
-firstarray = FullArrayConsole(firstarray);
+Console.WriteLine("Введите строки первого массива. После ввода одной строки необходимо нажать клавишу “Enter”:");
+firstarray = FillArrayConsole(firstarray);
 int count = FindCount(firstarray);
 string[] secondarray = CreateArray(count);
-FullArrayFromArray(firstarray, secondarray);
+FillArrayFromArray(firstarray, secondarray);
 Console.WriteLine(PrintGood(secondarray));
