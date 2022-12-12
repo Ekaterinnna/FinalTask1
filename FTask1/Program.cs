@@ -59,6 +59,10 @@ string[] firstarray = CreateArray(n);
 Console.WriteLine("Введите строки первого массива. После ввода одной строки необходимо нажать клавишу “Enter”:");
 firstarray = FillArrayConsole(firstarray);
 int count = FindCount(firstarray);
-string[] secondarray = CreateArray(count);
-FillArrayFromArray(firstarray, secondarray);
-Console.WriteLine(PrintGood(secondarray));
+if (count != 0)
+{
+    string[] secondarray = CreateArray(count);
+    FillArrayFromArray(firstarray, secondarray);
+    Console.WriteLine(PrintGood(secondarray));
+}
+else Console.WriteLine ("В первоначальном массиве нет строк длиной менее или равной 3");
